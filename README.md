@@ -1,1 +1,1 @@
-# git-under-the-hood
+# git-under-the-hood.
